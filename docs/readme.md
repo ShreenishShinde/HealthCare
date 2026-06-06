@@ -15,6 +15,7 @@ Tech Stack:
 - Open Food Facts API
 
 Future Improvements:
-- AI-based recommendations
-- Personalized nutrition analysis
-- Sustainability score
+- AI-powered personalized health recommendations
+- Sustainability impact scoring for food products
+- Ingredient risk analysis using machine learning
+- Diet-specific recommendations
